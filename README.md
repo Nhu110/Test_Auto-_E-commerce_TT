@@ -1,5 +1,5 @@
 # Hướng Dẫn Chạy Website và Kiểm Thử Tự Động
-## Tải website "Bán hàng thời trang" về sau đó giải nén
+## Tải website "WebHuynhNhu-main(1)" về sau đó giải nén
 1. **Tải và Giải Nén Website**
    - Tải website "Bán hàng thời trang" về và giải nén.
 2. **Mở Visual Studio**
