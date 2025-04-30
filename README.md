@@ -20,7 +20,7 @@
 1. **Yêu Cầu Tải**
    - Tải các công cụ: **Maven**, **Allure**, **Eclipse**.
 2. **Tải và Giải Nén Dự Án Test**
-   - Tải file "TestWebBanQuanAo" về và giải nén.
+   - Tải file "Banhangthoitrang" về và giải nén.
 3. **Mở Eclipse**
    - Mở Eclipse.
    - Chọn File -> Open Projects -> Chọn thư mục đã giải nén.
