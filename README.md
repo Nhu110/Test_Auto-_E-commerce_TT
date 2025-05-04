@@ -1,5 +1,5 @@
 # Hướng Dẫn Chạy Website và Kiểm Thử Tự Động
-## Tải website "WebHuynhNhu-main(1)" về sau đó giải nén
+## Hướng Dẫn Chạy Website
 1. **Tải và Giải Nén Website**
    - Tải website "WebHuynhNhu-main(1)" về và giải nén.
 2. **Mở Visual Studio**
